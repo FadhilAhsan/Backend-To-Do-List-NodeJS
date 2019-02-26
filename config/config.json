@@ -1,0 +1,12 @@
+{
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "mytodolistdb"
+    },
+    "app": {
+        "port": 3000,
+        "secret_token_jwt":"my-todolist-app-node-js"
+    }
+}
