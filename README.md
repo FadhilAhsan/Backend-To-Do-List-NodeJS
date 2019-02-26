@@ -4,7 +4,7 @@ This backend app (NodeJs-ExpressJs) for CRUD Task to do list with JWT for access
 
 # Setup Manual
 
-1. `https://github.com/FadhilAhsan/backend-to-do-list-nodejs.git`
+1. `git clone https://github.com/FadhilAhsan/backend-to-do-list-nodejs.git`
 2. Install `npm`
 3. `npm install`
 4. create database and table task, for query please see `db/query-db.txt`
